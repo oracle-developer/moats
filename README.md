@@ -1,10 +1,14 @@
 
 # Mother Of All Tuning Scripts (MOATS)
+* Adrian Billington (www.oracle-developer.net)
+* Tanel Poder       (www.tanelpoder.com)
 
-## Copyright Information
+## Version
 MOATS v1.06, April 2011
-* (c) Adrian Billington (www.oracle-developer.net)
-* (c) Tanel Poder       (www.tanelpoder.com)
+
+## License
+This project uses the Apache License Version 2.0.
+See https://github.com/oracle-developer/moats/blob/master/LICENSE
 
 ## Contents
 ```
